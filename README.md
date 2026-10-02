@@ -45,11 +45,9 @@ This project was created as part of a data analysis portfolio to demonstrate Exc
 ---
 
 ### 📁 Files In This Repository
-- [Raw Data](AfriMart_Sales_Dataset_.xlsx)
-- [Sales Dataset](<img width="616" height="233" alt="Afrimart_Dashboard_png_" src="https://github.com/user-attachments/assets/0ee182b2-5567-4983-81f5-ef91390fa7e3" />
-)
-- [Dashboard](<img width="616" height="233" alt="Afrimart_Dashboard_png_" src="https://github.com/user-attachments/assets/ffd0158c-da44-4aab-8696-de52e33dd71e" />
-)
+- [Raw Data - AfriMart_Sales_Dataset.xlsx](./AfriMart_Sales_Dataset.xlsx)
+- [Excel Dashboard - AfriMart_Sales_Dashboard_Excel](./AfriMart_Sales_Dashboard_Excel_xlsx)
+- [Dashboard Image - Afrimart_Dashboard](./Afrimart_Dashboard_png_.png)
 - README.md
 
 ---
