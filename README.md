@@ -44,9 +44,9 @@ This project was created as part of a data analysis portfolio to demonstrate Exc
 ---
 
 ### 📁 Files In This Repository
-- [Raw Data]-(AfriMart_Sales_Dataset_) 
-- [Sales Dataset]-(AfriMart_Sales_Dashboard_Excel)
-- [Dashboard]-(Afrimat_Dashboard_png.png)
+- [Raw Data](AfriMart_Sales_Dataset_.xlsx)
+- [Sales Dataset](AfriMart_Sales_Dashboard_Excel.xlsx)
+- [Dashboard](Afrimat_Dashboard_png.png)
 - README.md
 
 ---
